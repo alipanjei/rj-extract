@@ -1,5 +1,5 @@
 #radio javan extracter v3
-#symple code to extract download links from radio javan music service, using "radiojavanapi" and "Pyperclip".
+#simple code to extract download links from radio javan music service, using "radiojavanapi" and "Pyperclip".
 #run "pip install radiojavanapi" and "pip install pyperclip" prier to running this code
 from radiojavanapi import Client
 #used to interact with radio javan

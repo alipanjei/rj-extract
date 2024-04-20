@@ -1,4 +1,4 @@
-# RJ_Extract
+# RJ-Extract
 
 simple code in python to get download links along with name of the song from radio javan service
 
